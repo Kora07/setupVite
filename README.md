@@ -1,8 +1,6 @@
-# React + Vite
+### Setting up a simple React app using Vite - Practice assignment #2
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Set up Vite.
+- Added a dotenv file to store name and phone number, imported it into home.jsx for usage.
+- Added browser router, and a home route to display the home page.
+- Installed Axios, BrowserRouter, and Dotenv.
